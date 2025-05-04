@@ -7,5 +7,5 @@
 # What I want?
 - I want Porcshe 911 GT3 RS
 - And I want to try to write my own operationg system
-- I have a plan, and I try to follow it \n
-`Soon ...`
+- I have a plan, and I try to follow it
+- `Soon ...`
