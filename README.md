@@ -9,5 +9,3 @@
 - And I want to try to write my own operationg system
 - I have a plan, and I try to follow it \n
 `Soon ...`
-
-[ ] test
