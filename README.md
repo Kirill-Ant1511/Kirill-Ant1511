@@ -9,4 +9,5 @@
 - And I want to try to write my own operationg system
 - I have a plan, and I try to follow it
 - `Soon ...`
-[[https://cdn-bucket.hb.bizmrg.com/purple-images/certificates/8707b51b-e4ca-4f47-8b18-86f4741f2bfd_22_ru.png]]
+# My Achivment
+![Compleated Course from Git](https://cdn-bucket.hb.bizmrg.com/purple-images/certificates/8707b51b-e4ca-4f47-8b18-86f4741f2bfd_22_ru.png)
