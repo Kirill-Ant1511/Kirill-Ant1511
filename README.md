@@ -1,7 +1,6 @@
 # About me
 - I am student
 - Me 19 year(This year 20)
-- I really like system programing and I like write on C language
 
 
 # What I want?
