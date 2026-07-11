@@ -13,7 +13,6 @@
 
 <div>
   <h1 align="center">🧬About me</h1>
-  <p>🌴 I am currently creating my own startup **Evogram**</p>
   <p>🌎 I speak English and Russia</p>
   <p>🇺🇸 I realy want move to USA</p>
 </div>
